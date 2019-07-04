@@ -1,0 +1,14 @@
+D:\Documents\MSA 2019\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.deps.json
+D:\Documents\MSA 2019\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.runtimeconfig.json
+D:\Documents\MSA 2019\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.runtimeconfig.dev.json
+D:\Documents\MSA 2019\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.dll
+D:\Documents\MSA 2019\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.csprojAssemblyReference.cache
+D:\Documents\MSA 2019\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.csproj.CoreCompileInputs.cache
+D:\Documents\MSA 2019\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.RazorAssemblyInfo.cache
+D:\Documents\MSA 2019\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.RazorAssemblyInfo.cs
+D:\Documents\MSA 2019\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.AssemblyInfoInputs.cache
+D:\Documents\MSA 2019\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.AssemblyInfo.cs
+D:\Documents\MSA 2019\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.RazorTargetAssemblyInfo.cache
+D:\Documents\MSA 2019\schoolSIMS\schoolSIMS\bin\Debug\netcoreapp2.2\schoolSIMS.pdb
+D:\Documents\MSA 2019\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.dll
+D:\Documents\MSA 2019\schoolSIMS\schoolSIMS\obj\Debug\netcoreapp2.2\schoolSIMS.pdb
